@@ -1,0 +1,270 @@
+﻿;CountryCode;DisplayName;TimeZoneCode
+;AFG;Afghanistan;AGT
+;AL;Albania;MET
+;DZ;Algeria;MET
+;AND;Andorra;MET
+;ANG;Angola;MET
+;AGU;Anguilla;AST
+;ANT;Antigua / Barbuda;AST
+;UAE;Arabic Emirates;IOT
+;RA;Argentina;BZT
+;ARM;Armenia;R3T
+;AUS;Australia;AEST
+;A;Austria;MET
+;ASB;Azerbaijan;R3T
+;BS;Bahamas;EST
+;BRN;Bahrain;BGT
+;BD;Bangladesh;R6T
+;BDS;Barbados;AST
+;WRS;Belarus;EET
+;B;Belgium;MET
+;BH;Belize;CST
+;RPH;Benin;MET
+;BPA;Bermuda;AST
+;BHU;Bhutan;R6T
+;BOL;Bolivia;AST
+;RB;Botswana;EET
+;BR;Brazil;BZT
+;BRU;Brunei;CCT
+;BG;Bulgaria;EET
+;BF;Burkina Faso;GMT
+;BUR;Burma;NST
+;BU;Burundi;EET
+;K;Cambodia;SST
+;CAM;Cameroon;MET
+;CDN;Canada;EST
+;KVR;Cape Verde Islands;WAT
+;CAY;Cayman Islands;EST
+;RCA;Central Africa Republic;MET
+;CHA;Chad;MET
+;RCH;Chile;AST
+;TJ;China;CCT
+;CO;Columbia;EST
+;KOM;Comoros Islands;BGT
+;RCB;Congo;MET
+;CSP;Cook Islands;COT
+;CR;Costa Rica;CST
+;C;Cuba;EST
+;CPA;Curacao;BST
+;CY;Cyprus;EET
+;CS;Czech/Slovak Republic;MET
+;DK;Denmark;MET
+;DH;Djibouti;BGT
+;WD;Dominica;AST
+;DOM;Dominican Republic;AST
+;EC;Ecuador;EST
+;ET;Egypt;EET
+;ES;El Salvador;CST
+;GBE;England;GMT
+;AQG;Equatorial Guinea;MET
+;EST;Estonia;EET
+;ETH;Ethiopia;BGT
+;FOI;Faeroe Islands;GMT
+;FGB;Falkland Islands;BZT
+;FJI;Fiji Islands;NZT
+;SF;Finland;EET
+;F;France;MET
+;FGU;French Guiana;BZT
+;GAB;Gabon;MET
+;GAM;Gambia;GMT
+;GRG;Georgia;R3T
+;D;Germany;MET
+;GH;Ghana;GMT
+;GR;Greece;EET
+;GRO;Greenland;BZT
+;WG;Grenada;AST
+;GKA;Guadeloupe;AST
+;GSP;Guam;GST
+;GCA;Guatemala;CST
+;GUI;Guinea;GMT
+;GBA;Guinea-Bissau;GMT
+;GUY;Guyana;BZT
+;RH;Haiti;EST
+;HON;Honduras;CST
+;HKG;Hong Kong;CCT
+;H;Hungary;MET
+;IS;Iceland;GMT
+;IND;India;IST
+;RI;Indonesia;SST
+;IR;Iran;IRT
+;IRQ;Iraq;BGT
+;IRL;Ireland;GMT
+;IL;Israel;EET
+;I;Italy;MET
+;CI;Ivory Coast;GMT
+;JA;Jamaica;EST
+;J;Japan;JST
+;JOR;Jordan;EET
+;KAZ;Kazakhstan;R4T
+;EAK;Kenya;BGT
+;KIR;Kirgisistan;R5T
+;KSP;Kiribati;NZT
+;KWT;Kuwait;BGT
+;LAO;Laos;SST
+;LET;Latvia;EET
+;RL;Lebanon;EET
+;LS;Lesotho;EET
+;LB;Liberia;GMT
+;LAR;Libya;MET
+;FL;Liechtenstein;MET
+;LIT;Lithuania;EET
+;L;Luxembourg;MET
+;RM;Madagascar;BGT
+;MW;Malawi;EET
+;MAL;Malaysia;CCT
+;MDV;Maldives;EIT
+;RMM;Mali;GMT
+;M;Malta;MET
+;MSH;Marshall Islands;NZT
+;MQU;Martinique;AST
+;RIM;Mauritania;GMT
+;MS;Mauritius;IOT
+;MY;Mayotte;BGT
+;MEX;Mexico;CST
+;MSP;Midway Islands;NAT
+;MOL;Moldova;EET
+;MC;Monaco;MET
+;MOG;Mongolia;CCT
+;MTT;Montserrat;AST
+;MA;Morocco;GMT
+;MOZ;Mozambique;EET
+;MYA;Myanmar;NST
+;NAB;Namibia;EET
+;NSP;Nauru;NZT
+;NEP;Nepal;NPT
+;NL;Netherlands;MET
+;NKP;New Caledonia;SPT
+;NZ;New Zealand;NZT
+;NIC;Nicaragua;CST
+;RN;Niger;MET
+;WAN;Nigeria;MET
+;NIU;Niue;NAT
+;NIR;Nordirland;GMT
+;NFI;Norfolk Islands;OZT
+;KOR;North Korea;JST
+;N;Norway;MET
+;OMN;Oman;IOT
+;PAK;Pakistan;R5T
+;PA;Panama;EST
+;PNG;Papua New Guinea;GST
+;FPY;Paraguay;AST
+;PE;Peru;EST
+;RP;Philippines;CCT
+;PSP;Pitcairn;PCT
+;PL;Poland;MET
+;FSP;Polynesia;AHST
+;P;Portugal;MET
+;PUR;Puerto Rico;AST
+;Q;Qatar;BGT
+;REU;Reunion;IOT
+;R;Romania;EET
+;SSR;Russia;EET
+;RWA;Rwanda;EET
+;SHA;Saint Helena;GMT
+;SPM;Saint Pierre - Miquelon;BZT
+;SKN;Saint putty and Nevis;AST
+;WV;Saint Vincent and Grenadines;AST
+;SOL;Salomon Islands;SPT
+;SSP;Samoa (American);NAT
+;WS;Samoa (West);NAT
+;RSM;San Marino;MET
+;STL;Santa Lucia;AST
+;STP;Sao Tome - Principe;GMT
+;SA;Saudi Arabia;BGT
+;SCO;Scottland;GMT
+;SN;Senegal;GMT
+;SY;Seychelles;IOT
+;WAL;Sierra Leone;GMT
+;SGP;Singapore;CCT
+;SP;Somalia;BGT
+;ZA;South Africa;EET
+;STH;South Georgia;AZT
+;ROK;South Korea;JST
+;E;Spain;MET
+;CL;Sri Lanka;IST
+;FS;Sudan;EET
+;SME;Suriname;BZT
+;SD;Swaziland;EET
+;S;Sweden;MET
+;CH;Switzerland;MET
+;SYR;Syria;EET
+;TAJ;Tadschikistan;R5T
+;RC;Taiwan;CCT
+;EAT;Tanzania;BGT
+;THA;Thailand;SST
+;TG;Togo;GMT
+;TSP;Tokelau Iceland;AHST
+;TGA;Tonga;Z13
+;TT;Trinidad - Tobago;AST
+;TN;Tunisia;MET
+;TR;Turkey;EET
+;TUR;Turkmenistan;R4T
+;TCO;Turks and Caicos;EST
+;TVL;Tuvalu;NZT
+;EAV;Uganda;BGT
+;UKR;Ukraine;EET
+;U;Uruguay;AZT
+;USAL;USA, Alabama;CST
+;USAK;USA, Alaska;YST
+;USAZ;USA, Arizona;MST
+;USAR;USA, Arkansas;CST
+;USCA;USA, California;PST
+;USCO;USA, Colorado;MST
+;USCT;USA, Connecticut;EST
+;USDE;USA, Delaware;EST
+;USDC;USA, District of Columbia;EST
+;USFL;USA, Florida;EST
+;USGA;USA, Georgia;EST
+;USHI;USA, Hawaii;HST
+;USID;USA, Idaho;MST
+;USIL;USA, Illinois;CST
+;USIN;USA, Indiana;EST
+;USIA;USA, Iowa;CST
+;USKS;USA, Kansas;CST
+;USKY;USA, Kentucky;EST
+;USLA;USA, Louisiana;CST
+;USME;USA, Maine;EST
+;USMD;USA, Maryland;EST
+;USMA;USA, Massachusetts;EST
+;USMI;USA, Michigan;EST
+;USMN;USA, Minnesota;CST
+;USMS;USA, Mississippi;CST
+;USMO;USA, Missouri;CST
+;USMT;USA, Montana;MST
+;USNE;USA, Nebraska;CST
+;USNV;USA, Nevada;PST
+;USNH;USA, New Hampshire;EST
+;USNJ;USA, New Jersey;EST
+;USNM;USA, New Mexico;MST
+;USNY;USA, New York;EST
+;USNC;USA, North Carolina;EST
+;USND;USA, North Dakota;CST
+;USOH;USA, Ohio;EST
+;USOK;USA, Oklahoma;CST
+;USOR;USA, Oregon;PST
+;USPA;USA, Pennsylvania;EST
+;USRI;USA, Rhode Island;EST
+;USSC;USA, South Carolina;EST
+;USSD;USA, South Dakota;CST
+;USTN;USA, Tennessee;EST
+;USTX;USA, Texas;CST
+;USUT;USA, Utah;MST
+;USVT;USA, Vermont;EST
+;USVA;USA, Virginia;EST
+;USWA;USA, Washington;PST
+;USWV;USA, West Virginia;EST
+;USWI;USA, Wisconsin;CST
+;USWY;USA, Wyoming;MST
+;UZB;Uzbekistan;R5T
+;VAN;Vanuatu;SPT
+;YV;Venezuela;AST
+;VN;Vietnam;SST
+;VRG;Virgin Islands;AST
+;WSP;Wake Islands;NZT
+;WL;Wales;GMT
+;WFP;Wallis and Futuna Islands;NZT
+;YMD;Yemen;BGT
+;YU;Yugoslavia;MET
+;ZR;Zaire;MET
+;Z;Zambia;EET
+;ZW;Zimbabwe;EET

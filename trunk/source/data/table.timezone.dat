@@ -1,0 +1,151 @@
+﻿;TimeZoneCode;DisplayName;Delta;Group;Type;Order
+;LMT;Local Mean Time;-9999;LMT,1;Base
+;DAT;Date Time;-1200;DAT,1;Base
+;NTT;Niue Standard Time;-1130;NTT,1;Base
+;NUT;Niue Time;-1120;NTT,2;Base
+;BRST;Bering Standard Time;-1100;BRST,1;Base
+;BRDT;Bering Daylight Time;-1000;BRST,2;Summer
+;BRWT;Bering War Time;-1000;BRST,3;War
+;NAT;Nome Time;-1100;NAT,1;Base
+;KBT;Kiribati Time;-1040;KBT,1;Base
+;HST;Hawaiian Standard Time;-1030;HST,1;Base
+;HDT;Hawaiian Daylight Time;-930;HST,2;Summer
+;HWT;Hawaiian War Time;-930;HST,3;War
+;AHST;Alaska+Hawaiian Standard Time;-1000;AHST,1;Base
+;AHDT;Alaska+Hawaiian Daylight Time;-900;AHST,2;Summer
+;AHWT;Alaska+Hawaiian War Time;-900;AHST,3;War
+;COT;Cook Island Time;-930;COT,1;Base
+;YST;Yukon Standard Time;-900;YST,1;Base
+;YDT;Yukon Daylight Time;-800;YST,2;Summer
+;YWT;Yukon War Time;-800;YST,3;War
+;PCT;Pitcairn Time;-830;PCT,1;Base
+;PST;Pacific Standard Time;-800;PST,1;Base
+;PDT;Pacific Daylight Time;-700;PST,2;Summer
+;PWT;Pacific War Time;-700;PST,3;War
+;MST;Mountain Standard Time;-700;MST,1;Base
+;MDT;Mountain Daylight Time;-600;MST,2;Summer
+;MWT;Mountain War Time;-600;MST,3;War
+;CST;Central Standard Time;-600;CST,1;Base
+;CDT;Central Daylight Time;-500;CST,2;Summer
+;CWT;Central War Time;-500;CST,3;War
+;CRLT;Costa Rica Local Time;-536;CRLT,1;Base
+;BLZ/S;Belice Summer Time;-530;BLZ/S,1;Summer
+;ECLT;Ecuador Local Time;-514;ECLT,1;Base
+;CAYLT;Cayman Islands Local Time;-507;CAYLT,1;Base
+;EST;Eastern Standard Time;-500;EST,1;Base
+;EDT;Eastern Daylight Time;-400;EST,2;Summer
+;EWT;Eastern War Time;-400;EST,3;War
+;COLT;Columbia Local Time;-456;COLT,1;Base
+;RHLT;Haiti Local Time;-449;RHLT,1;Base
+;RCHLT;Chile Local Time;-443;RCHLT,1;Base
+;DRLMT;Dominican Republic Local Time;-440;DRLMT,1;Base
+;BST;Bolivian Standard Time;-430;BST,1;Base
+;BST/S;Bolivian Summer Time;-330;BST,2;Summer
+;RALT;Argentina Local Time;-416;RALT,1;Base
+;AST;Atlantic Standard Time;-400;AST,1;Base
+;AST/S;Atlantic Standard Summer Time;-300;AST,2;Summer
+;BDSLT;Barbados Local Time;-358;BDSLT,1;Base
+;FPYLT;Paraguay Local Time;-350;FPYLT,1;Base
+;GUT;Guam Time;-345;GUT,1;Base
+;ULT;Uruguay Local Time;-345;ULT,1;Base
+;SULMT;Suriname Local Time;-341;SULMT,1;Base
+;BZT;Brazil Zone 2 Time;-300;BZT,1;Base
+;BZT/S;Brazil Zone 2 Summer Time;-200;BZT,2;Summer
+;AZT;Azores Time;-200;AZT,1;Base
+;AZT/S;Azores Summer Time;-100;AZT,2;Summer
+;AZT/DS;Azores Double Summer Time;0;AZT,3;DoubleSummer
+;WAT;West African Time;-100;WAT,1;Base
+;WAT/S;West African Summer Time;0;WAT,2;Summer
+;WAT/DS;West African Double Summer Time;100;WAT,3;DoubleSummer
+;LBLMT;Liberia Local Time;-44;LBLMT,1;Base
+;SRL/S;Sierra Leone Summer Time;-20;SRL/S,1;Summer
+;GMT;Greenwich Mean Time;0;GMT,1;Base
+;WET/S;West European Summer Time;100;GMT,2;Summer
+;WET/DS;West European Double Summer Time;200;GMT,3;DoubleSummer
+;AMT;Amsterdam Time;20;AMT,1;Base
+;AMT/S;Amsterdam Summer Time;120;AMT,2;Summer
+;DKLT;Dinamarca Local Time;50;DKLT,1;Base
+;ANGLT;Angola Local Time;52;ANGLT,1;Base
+;MET;Middle European Time;100;MET,1;Base
+;MET/S;Middle European Summer Time;200;MET,2;Summer
+;MET/DS;Middle European Double Summer Time;300;MET,3;DoubleSummer
+;GRLT;Grecia Local Time;135;GRLT,1;Base
+;SFLT;Finalandia Local Time;140;SFLT,1;Base
+;RLMT;Romania Local Time;144;RLMT,1;Base
+;EET;East European Time;200;EET,1;Base
+;EET/S;East European Summer Time;300;EET,2;Summer
+;R2T;Russian Zone 2 Time;200;R2T,1;Base
+;R2T/S;Russian Zone 2 Summer Time;300;R2T,2;Summer
+;KYT;Kenya Time;230;KYT,1;Base
+;KYLMT;Kenya Local Time;245;KYT,2;Base
+;TLMT;Ethiopia Local Time;235;TLMT,1;Base
+;TZLMT;Tanzania Local Time;245;TZLMT,1;Base
+;UGLMT;Uganda Local Time;245;UGLMT,1;Base
+;BGT;Bagdad Time;300;BGT,1;Base
+;BGT/S;Bagdad Summer Time;400;BGT,2;Summer
+;R3T;Russian Zone 3 Time;300;R3T,1;Base
+;R3T/S;Russian Zone 3 Summer Time;400;R3T,2;Summer
+;IRT;Iran Time;330;IRT,1;Base
+;IRT/S;Iran Summer Time;430;IRT,2;Summer
+;IRLMT;Iran Local Time;326;IRT,3;Base
+;IOT;Indian Ocean Time;400;IOT,1;Base
+;IOT/S;Indian Ocean Summer Time;500;IOT,2;Summer
+;R4T;Russian Zone 4 Time;400;R4T,1;Base
+;R4T/S;Russian Zone 4 Summer Time;500;R4T,2;Summer
+;AGT;Afghanistan Time;430;AGT,1;Base
+;AGT/S;Afghanistan Summer Time;530;AGT,2;Summer
+;MVLMT;Maledives Local Time;454;MVLMT,1;Base
+;EIT;East Indian Ocean Time;500;EIT,1;Base
+;EIT/S;East Indian Ocean Summer Time;600;EIT,2;Summer
+;R5T;Russian Zone 5 Time;500;R5T,1;Base
+;R5T/S;Russian Zone 5 Summer Time;600;R5T,2;Summer
+;IST;Indian Standard Time;530;IST,1;Base
+;IST/S;Indian Standard Summer Time;630;IST,2;Summer
+;NPT;Nepal Time;545;NPT,1;Base
+;NPT/S;Nepal Summer Time;645;NPT,2;Summer
+;BDLT;Bangladesh Local Time;553;BDLT,1;Base
+;R6T;Russian Zone 6 Time;600;R6T,1;Base
+;R6T/S;Russian Zone 6 Summer Time;700;R6T,2;Summer
+;NST;North Sumatra Time;630;NST,1;Base
+;NST/S;North Sumatra Summer Time;730;NST,2;Summer
+;R7T;Russian Zone 7 Time;700;R7T,1;Base
+;R7T/S;Russian Zone 7 Summer Time;800;R7T,2;Summer
+;SST;South Sumatra Time;700;SST,1;Base
+;SST/S;South Sumatra Summer Time;800;SST,2;Summer
+;MALMT;Malaysia Local Time;720;MALMT,1;Base
+;JVT;Java Time;730;JVT,1;Base
+;JVT/S;Java Summer Time;830;JVT,2;Summer
+;AWST;Australian Western Standard Time;800;AWST,1;Base
+;AWST/S;Australian Western Daylight Time;900;AWST,2;Summer
+;CCT;China Coast Time;800;CCT,1;Base
+;CCT/S;China Coast Summer Time;900;CCT,2;Summer
+;R8T;Russian Zone 8 Time;800;R8T,1;Base
+;R8T/S;Russian Zone 8 Summer Time;900;R8T,2;Summer
+;MYLMT;Malaysia Local Time;820;MYLMT,1;Base
+;KRLMT;Korea Local Time;830;KRLMT,1;Base
+;JST;Japan Standard Time;900;JST,1;Base
+;JST/S;Japan Standard Summer Time;1000;JST,2;Summer
+;R9T;Russian Zone 9 Time;900;R9T,1;Base
+;R9T/S;Russian Zone 9 Summer Time;1000;R9T,2;Summer
+;ACST;Australian Central Standard Time;930;ACST,1;Base
+;ACST/S;Australian Central Savings Time;1030;ACST,2;Summer
+;AEST;Australian Eastern Standard Time;1000;AEST,1;Base
+;AEST/S;Australian Eastern Daylight Time;1100;AEST,2;Summer
+;GST;Guam Standard Time;1000;GST,1;Base
+;GST/S;Guam Summer Time;1100;GST,2;Summer
+;Z10;Russian Zone 10 Time;1000;Z10,1;Base
+;Z10/S;Russian Zone 10 Summer Time;1100;Z10,2;Summer
+;SPT;South Pacific Time;1100;SPT,1;Base
+;SPT/S;South Pacific Summer Time;1200;SPT,2;Summer
+;Z11;Russian Zone 11 Time;1100;Z11,1;Base
+;Z11/S;Russian Zone 11 Summer Time;1200;Z11,2;Summer
+;NIT;Norfolk Island Time;1112;NIT,1;Base
+;NZT;New Zealand Time;1200;NZT,1;Base
+;NZT/S;New Zealand Summer Time;1300;NZT,2;Summer
+;OZT;Old New Zealand Time;1130;NZT,3;Base
+;OZT/S;Old New Zealand Summer Time;1230;NZT,4;Summer
+;Z12;Russian Zone 12 Time;1200;Z12,1;Base
+;Z12/S;Russian Zone 12 Summer Time;1300;Z12,2;Summer
+;TGT;Tonga Time;1220;TGT,1;Base
+;Z13;Russian Zone 13 Time;1300;Z13,1;Base
+;Z13/S;Russian Zone 13 Summer Time;1400;Z13,2;Summer
